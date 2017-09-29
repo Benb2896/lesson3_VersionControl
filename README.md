@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Ben Buchalter)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I utilized the lesson three files and uploaded them through GIT repository and combined it in cloud9)
+
+## View Project:
+https://benb2896.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (What is a version control system.)
+2. (what are remote and local repositories)
+3. (How to use GIThub)
 
